@@ -1,0 +1,18 @@
+{
+	"className": "Caster",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/92/CasterBackGold.png/revision/latest?cb=20171207050639",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7e/Castercardborder20.png/revision/latest/scale-to-width-down/130?cb=20180407131341",
+	"classDescription": "Servants within this class are legends adept in magecraft and have powerful abilities. They usually have supportive noble phantasms as opposed to high damaging ones. They typically have the lowest stats out of all servants making them rely heavily on their abilities.",
+	"classProperties": [
+		"Casters have a base damage multiplier of 0.9x.",
+		"Casters have a base star generation rate of 11%.",
+		"Casters have a base star absorption of 50.",
+		"Casters have a base death rate of 60%.",
+		"Assassins take double damage from Casters and deal half damage against them.",
+		"Riders take half damage from Casters and deal double damage against them.",
+		"Berserkers take double damage from Casters and deal 50% extra damage against them.",
+		"Rulers take half damage from Casters.",
+		"Alter Egos deal 50% extra damage to Casters.",
+		"Beast I takes double damage from Casters."
+	]
+}

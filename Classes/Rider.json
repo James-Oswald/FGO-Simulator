@@ -1,0 +1,18 @@
+{
+	"className": "Rider",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/RiderBackGold.png/revision/latest?cb=20171207050640",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Ridercardborder14.png/revision/latest/scale-to-width-down/130?cb=20180407123751",
+	"classDescription": "Servants within this class are warriors who were known for riding mounts, whether that be living beasts or human constructs during their lives. They have strong noble phantasms, great speed, strength, and abilities but have low overall stats compared to other servants.",
+	"classProperties": [
+		"Riders have a base damage multiplier of 1.0x.",
+		"Riders have a base star generation rate of 9%.",
+		"Riders have a base star absorption of 200.",
+		"Riders have a base star absorption of 200.",
+		"Casters take double damage from Riders and deal half damage against them.",
+		"Assassins take half damage from Riders and deal double damage against them.",
+		"Berserkers take double damage from Riders and deal 50% extra damage against them.",
+		"Rulers take half damage from Riders.",
+		"Alter Egos deal 50% extra damage to Riders.",
+		"Beast I takes double damage from Riders."
+	]
+}

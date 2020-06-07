@@ -1,0 +1,55 @@
+
+#lRoll{
+	text-align: center;
+}
+
+#lRollImg{
+	display:block;
+	margin: auto;
+	width: 20%;
+	padding-bottom:20px;
+}
+
+#obt{
+	background-color: white;
+}
+
+.il{
+	display: inline-block;
+	width: 17%;
+	border: 2px solid black;
+	padding: 2px;
+	margin: 2px;
+}
+
+.obtRoll{
+	font-size: 0.7em;
+}
+
+.obtRollImg{
+	display: block;
+	margin: auto;
+	width: 90%;
+	padding-bottom:10px;
+}
+
+
+.r1{
+	background-color: #987559;
+}
+
+.r2{
+	background-color: #987559;
+}
+
+.r3{
+	background-color: #bec2cb;
+}
+
+.r4{
+	background-color: #ffd700;
+}
+
+.r5{
+	background-color: #ffd700;
+}

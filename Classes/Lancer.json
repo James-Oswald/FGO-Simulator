@@ -1,0 +1,18 @@
+{
+	"className": "Lancer",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ad/LancerBackGold.png/revision/latest?cb=20171207050639",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1b/Lancercardborder2.png/revision/latest/scale-to-width-down/130?cb=20180407115923",
+	"classDescription":"Servants within this class are agile, great at close combat, utilize hit and run tactics, and are skilled with long-range melee weapons such as spears and lances. Servants within this class are legendary spear men or used lances within their legends.",
+	"classProperties": [
+		"Lancers have a base damage multiplier of 1.05x.",
+		"Lancers have a base star generation rate of 12%.",
+		"Lancers have a base star absorption of 90.",
+		"Lancers have a base death rate of 40%.",
+		"Archers take double damage from Lancers and deal half damage against them.",
+		"Sabers take half damage from Lancers and deal double damage against them.",
+		"Berserkers take double damage from Lancers and deal 50% extra damage against them.",
+		"Rulers take half damage from Lancers.",
+		"Alter Egos deal half damage to Lancers.",
+		"Beast I deals double damage to Lancers."
+	]
+}

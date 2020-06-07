@@ -1,0 +1,18 @@
+{
+	"className": "Saber",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/SaberBackGold.png/revision/latest?cb=20171207050640",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/84/Sabercardborder1.png/revision/latest/scale-to-width-down/130?cb=20180407084836",
+	"classDescription": "Servents within this class are agile and powerful melee, warriors adept at swordsmanship, boasting high stats in all categories. Servents can only be categorized within this class if they are legends associated with sword fighting.",
+	"classProperties": [
+		"Sabers have a base damage multiplier of 1.0x.",
+		"Sabers have a base star generation rate of 10%.",
+		"Sabers have a base star absorption of 100.",
+		"Sabers have a base death rate of 35%.",
+		"Lancers take double damage from Sabers and deal half damage against them.",
+		"Archers take half damage from Sabers and deal double damage against them.",
+		"Berserkers take double damage from Sabers and deal 50% extra damage against them.",
+		"Rulers take half damage from Sabers.",
+		"Alter Egos deal half damage to Sabers.",
+		"Beast I deals double damage to Sabers."
+	]
+}

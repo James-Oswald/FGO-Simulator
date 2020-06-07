@@ -1,0 +1,18 @@
+{
+	"className": "Archer",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/ArcherBackGold.png/revision/latest?cb=20171207050637",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8c/Archercardborder1.png/revision/latest/scale-to-width-down/130?cb=20180407091219",
+	"classDescription": "Servants within this class have some of the most powerful noble phantasms among servants and are able to act as highly effective scouts. Servants within this class used powerful projectile weapons or abilities within their legends. Because of this not all servants within the archer class use bows.",
+	"classProperties": [
+		"Archers have a base damage multiplier of 0.95x.",
+		"Archers have a base star generation rate of 8%.",
+		"Archers have a base star absorption of 150.",
+		"Archers have a base death rate of 45%.",
+		"Sabers take double damage from Archers and deal half damage against them.",
+		"Lancers take half damage from Archers and deal double damage against them.",
+		"Berserkers take double damage from Archers and deal 50% extra damage against them.",
+		"Rulers take half damage from Archers.",
+		"Alter Egos deal half damage to Archers.",
+		"Beast I deals double damage to Archers."
+	]
+}

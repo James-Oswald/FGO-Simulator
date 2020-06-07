@@ -1,0 +1,18 @@
+{
+	"className": "Assassin",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/58/AssassinBackGold.png/revision/latest?cb=20171207050638",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/Assassincardborder9.png/revision/latest/scale-to-width-down/130?cb=20180407140620",
+	"classDescription":"Servants within this class are skilled in stealth and are amongst the fastest servents. During the time they were alive, these servants were known for stealth killing or assassinations. They hold some of the lowest stats among servants so they utilize hit and run tactics as their primary means of attack.",
+	"classProperties": [
+		"Assassins have a base damage multiplier of 0.9x.",
+		"Assassins have a base star generation rate of 25%.",
+		"Assassins have a base star absorption of 100.",
+		"Assassins have a base death rate of 55%.",
+		"Riders take double damage from Assassins and deal half damage against them.",
+		"Casters take half damage from Assassins and deal double damage against them.",
+		"Berserkers take double damage from Assassins and deal 50% extra damage against them.",
+		"Rulers take half damage from Assassins.",
+		"Alter Egos deal 50% extra damage to Assassins.",
+		"Beast I takes double damage from Assassins."
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"className": "Berserker",
+	"rightimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/BerserkerBackGold.png/revision/latest?cb=20171207050638",
+	"leftimg": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/91/Berserkercardborder1.png/revision/latest/scale-to-width-down/130?cb=20180407081116",
+	"classDescription": "Servants within this class are people who had gone berserk on the battlefield during there lifetime. Berserkers hold the highest stats of all servants but they sacrifice their mental stability for those high stats. Because of this, servants within this class are considered glass cannons.",
+	"classProperties": [
+		"Berserkers have a base damage multiplier of 1.1x.",
+		"Berserkers have a base star generation rate of 5%.",
+		"Berserkers have a base star absorption of 10.",
+		"Berserkers have a base death rate of 65%.",
+		"All Classes except Shielder and Foreigner take 50% more damage from Berserkers, including other Berserkers.",
+		"Foreigners take half damage from Berserkers.",
+		"Berserkers take double damage from all Classes except Shielder and Berserkers."
+	]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+		<title>FGO</title>
+		<link rel="stylesheet" type="text/css" href="index.css"/>
+		<link rel="stylesheet" type="text/css" href="sim.css"/>
+		<script src="sim.js"></script>
+	</head>
+	<body>
+		<div id="content">
+			<img class="centimg" src="logo.png" alt=""/>
+			<div id="navbar">
+				<a class="navelt" href="index.html">Home</a>
+				<div class="navelt drop"> Classes 
+					<div class="dropmenu">
+						<a class="navelt" href="class.html?c=Saber">Saber</a>
+						<a class="navelt" href="class.html?c=Archer">Archer</a>
+						<a class="navelt" href="class.html?c=Lancer">Lancer</a>
+						<a class="navelt" href="class.html?c=Assassin">Assassin</a>
+						<a class="navelt" href="class.html?c=Rider">Rider</a>
+						<a class="navelt" href="class.html?c=Caster">Caster</a>
+						<a class="navelt" href="class.html?c=Berserker">Berserker</a>
+					</div>
+				</div>
+				<a class="navelt" href="sim.html">Gacha Simulator</a>
+			</div>
+			<h1>Gacha Simulator</h1>
+			<hr/>
+			<button onclick="roll()">Roll</button>
+			<button onclick="clearRolls()">Clear Rolls</button>
+			<div>
+				<h1 id="lRoll"></h1>
+				<img id="lRollImg"></h1>
+			</div>
+			<div id="obt"></div>
+			<script> updateDisplay(); </script>
+		</div>
+	</body>
+</html>
