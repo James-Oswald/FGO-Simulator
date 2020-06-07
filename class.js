@@ -9,7 +9,7 @@ function getUrlParam(param){
 
 function propagate(){
 	let name = getUrlParam("c");
-	fetch("./Classes/" + name + ".json", {credentials: 'same-origin'})
+	fetch("./classes/" + name + ".json", {credentials: 'same-origin'})
 	.then(r => r.json())
 	.then(d => propcont(d));
 }

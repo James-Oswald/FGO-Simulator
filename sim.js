@@ -11,7 +11,7 @@ function onFetch(data){
 		rarityClasses[waifus[i]["rarity"] - 1].push(waifus[i]);
 }
 
-fetch("fgo.json").then(r => r.json()).then(d => onFetch(d));
+fetch("res/fgo.json").then(r => r.json()).then(d => onFetch(d));
 
 function roll(){
 	if(waifus == null){
@@ -56,7 +56,7 @@ function updateDisplay(){
 		obHTML += "</div>";
 	}else{
 		document.getElementById("lRoll").innerHTML = "Click Roll to roll";
-		document.getElementById("lRollImg").src = "meme.gif";
+		document.getElementById("lRollImg").src = "res/meme.gif";
 	}
 	/*for(let i = 0; i < obtained.length; i++){
 		obHTML += "<div class=\"il r" + obtained[i]["rarity"] + "\">";
